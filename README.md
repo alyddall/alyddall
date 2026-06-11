@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alydall</h1>
 <h3 align="center">Software/Firmware engineer for Drilling Products Inc</h3>
 
-- 🌱 I’m currently learning **about Android App development**
+- 🌱 I’m currently learning **about Android App development and Github project boards **
 
 <p align="left">
 </p>
